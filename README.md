@@ -8,5 +8,5 @@ brew install ***
 or 
 
 ```
-brew tap TakashiAihara/cask/***
+brew install TakashiAihara/cask/***
 ```
